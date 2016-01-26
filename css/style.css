@@ -63,18 +63,18 @@ h2.epi{
 nav.grey a, div.col-2 a{
 	text-decoration: none;
 	color: #7176BC;
-	text-shadow: 0px 0px 1px #414684;
+	text-shadow: 0px 0px 0px #414684;
 	text-align: center;
 	font-size: 12px;
 	font-family: sans-serif;
 }
 h2.epi a{
 	font-size: 10px;
-	text-shadow: 0px 0px 0.5px #414684;
+	text-shadow: 0px 0px 0px #414684;
 }
 nav.grey a:hover, div.col-2 a:hover, div.subscribe a:hover, .Bandwith a:hover{
 	color:#A90000;
-	text-shadow:0px 0px 0.5px #A90000;
+	text-shadow:0px 0px 0px #A90000;
 }
 .peq{
 	width: 100px;
